@@ -1,3 +1,4 @@
 Hi, this is a first line of code / added new code to first commit
-Hi, THis is my second line of code
-Hi, im making a third line of code
+Hi, THis is my second line of... some changes dones to second line of code too
+Hi, im making a third line of code. with some some changes
+this is fourth line of code, from local New-Feature1 branch
